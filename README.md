@@ -1,16 +1,10 @@
-# rolling_dice
+# Rolling Dice
 
-A new Flutter project.
+an app for rolling dice randomly for some board games like backgammon in Flutter
 
-## Getting Started
+## screenshot
+![rolling_dice](https://github.com/merihcavdar/rolling_dice/assets/84540989/62077c99-16fc-49c4-b839-7bab36edd130)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- asset usage
+- dart:math -> Random().nextInt() usage
